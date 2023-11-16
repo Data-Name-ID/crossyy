@@ -126,7 +126,7 @@ body {
   }
 }
 
-@media (max-width: 664px) {
+@media (max-width: 800px) {
   .nav-line {
     flex-direction: column;
     justify-content: center;
