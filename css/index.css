@@ -52,7 +52,7 @@ main {
   font-weight: 400;
 }
 
-@media (max-width: 1183px) {
+@media (max-width: 1183px) and (min-width: 400px) {
   main .container {
     display: flex;
     flex-direction: column;
